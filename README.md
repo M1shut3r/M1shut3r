@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M1shut3r
-- 👀 I’m interested in C++
+- 👀 I’m interested in C++ and Python
 - 🌱 I’m currently learning Bauman university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
