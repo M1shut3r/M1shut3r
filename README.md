@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @M1shut3r
-- 👀 I’m interested in C++ and Python
-- 🌱 I’m currently learning Bauman university
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Mikhail 👋
+🔹 Python Backend Developer 🔹
 
-<!---
-M1shut3r/M1shut3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Backend
+Python • Flask • PostgreSQL • ClickHouse • RabbitMQ • API • json • bs4 • requests
+
+🔹 Security
+Malware Analysis • PE • SSDEEP • TLSH
+
+🔹 Interests
+Backend
