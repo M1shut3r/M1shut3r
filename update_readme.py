@@ -39,22 +39,13 @@ def fetch_code_run_stats():
         comp_place = competition_info['place']
         comp_total_participants = competition_info['totalParticipants']
         
-        # Форматируем ASCII блок
-        stats_block = f"""╭────────────────────────────────────────────╮
-│ CODE RUN                                   │
-│                                            │
-│  {total_solved:<16}{easy_solved:<10}{medium_solved:<10}{hard_solved}    │
-│ Solved          Easy     Medium     Hard   │
-│                                            │
-├────────────────────────────────────────────┤
-│ COMPETITIONS                               │
-│                                            │
-│ {comp_name:<42}  │
-│                                            │
-│  {comp_solved} / {comp_total:<12}{comp_score:<11}#{comp_place} / {comp_total_participants:,}   │
-│  Solved        Points          Place       │
-╰────────────────────────────────────────────╯
-Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"""
+        # Форматируем ASCII блок с правильным выравниванием
+        comp_place_str = f"#{comp_place} / {comp_total_participants:,}"
+        
+        # Оборачиваем в div для центрирования
+        stats_block = f"""<div align="center">
+
+</div>"""
         
         return stats_block
     
