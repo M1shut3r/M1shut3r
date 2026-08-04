@@ -42,9 +42,24 @@ def fetch_code_run_stats():
         # Форматируем ASCII блок с правильным выравниванием
         comp_place_str = f"#{comp_place} / {comp_total_participants:,}"
         
-        # Оборачиваем в div для центрирования
+        # Используем <pre> вместо тройных кавычек, чтобы HTML работал
         stats_block = f"""<div align="center">
-
+<pre>
+╭────────────────────────────────────────────╮
+│ CODE RUN                                   │
+│                                            │
+│  {total_solved:<16}{easy_solved:<10}{medium_solved:<10}{hard_solved:<5}│
+│ Solved          Easy     Medium     Hard   │
+│                                            │
+├────────────────────────────────────────────┤
+│ COMPETITIONS                               │
+│                                            │
+│ {comp_name:<42}│
+│                                            │
+│  {comp_solved} / {comp_total:<12}{comp_score:<13}{comp_place_str:<16}│
+│  Solved        Points          Place       │
+╰────────────────────────────────────────────╯
+</pre>
 </div>"""
         
         return stats_block
