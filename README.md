@@ -33,6 +33,14 @@
 
 ---
 
+## 📊 CodeRun Stats
+
+<!-- CODE_RUN_STATS_START -->
+
+<!-- CODE_RUN_STATS_END -->
+
+---
+
 ## 🌐 Connect with Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@m1shuter)
