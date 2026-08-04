@@ -36,21 +36,7 @@
 ## 📊 CodeRun Stats
 
 <!-- CODE_RUN_STATS_START -->
-╭────────────────────────────────────────────╮
-│ CODE RUN                                   │
-│                                            │
-│  25              22        3         0    │
-│ Solved          Easy     Medium     Hard   │
-│                                            │
-├────────────────────────────────────────────┤
-│ COMPETITIONS                               │
-│                                            │
-│ CodeRun Summer Challenge                    │
-│                                            │
-│  10 / 15          859.87     #268 / 2,638   │
-│  Solved        Points          Place       │
-╰────────────────────────────────────────────╯
-Last updated: 2026-08-04 00:22:45
+
 <!-- CODE_RUN_STATS_END -->
 
 ---
