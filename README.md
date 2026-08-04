@@ -36,7 +36,9 @@
 ## 📊 CodeRun Stats
 
 <!-- CODE_RUN_STATS_START -->
+<div align="center">
 
+</div>
 <!-- CODE_RUN_STATS_END -->
 
 ---
