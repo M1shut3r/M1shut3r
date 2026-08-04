@@ -2,8 +2,8 @@ name: Update CodeRun Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Запускается каждые 6 часов
-  workflow_dispatch:  # Возможность запустить вручную
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
   push:
     paths:
       - 'README.md'
@@ -12,10 +12,15 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+        with:
+          fetch-depth: 0
+          
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -34,4 +39,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
+          git pull --rebase origin main
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update CodeRun stats" && git push)
