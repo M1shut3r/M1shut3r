@@ -5,9 +5,9 @@
   <text x="110" y="120" fill="#ffffff" font-size="42" font-weight="700" text-anchor="middle" dominant-baseline="central">25</text>
   
   <text x="210" y="78" fill="#e6edf3" font-size="19" font-weight="600">Easy</text>
-  <text x="690" y="78" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">22 / 201</text>
+  <text x="690" y="78" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">22 / 202</text>
   <rect x="210" y="92" width="480" height="6" rx="3" fill="#2d333b"/>
-  <rect x="210" y="92" width="53" height="6" rx="3" fill="#3fb950"/>
+  <rect x="210" y="92" width="52" height="6" rx="3" fill="#3fb950"/>
   <text x="210" y="144" fill="#e6edf3" font-size="19" font-weight="600">Medium</text>
   <text x="690" y="144" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">3 / 268</text>
   <rect x="210" y="158" width="480" height="6" rx="3" fill="#2d333b"/>
