@@ -13,7 +13,7 @@
   <rect x="210" y="158" width="480" height="6" rx="3" fill="#2d333b"/>
   <rect x="210" y="158" width="7" height="6" rx="3" fill="#d29922"/>
   <text x="210" y="210" fill="#e6edf3" font-size="19" font-weight="600">Hard</text>
-  <text x="690" y="210" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">0 / 192</text>
+  <text x="690" y="210" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">0 / 193</text>
   <rect x="210" y="224" width="480" height="6" rx="3" fill="#2d333b"/>
   <rect x="210" y="224" width="0" height="6" rx="3" fill="#f85149"/>
   <line x1="30" y1="268" x2="690" y2="268" stroke="#2d333b" stroke-width="1"/>
