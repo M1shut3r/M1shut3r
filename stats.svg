@@ -5,15 +5,15 @@
   <text x="110" y="120" fill="#ffffff" font-size="42" font-weight="700" text-anchor="middle" dominant-baseline="central">29</text>
   
   <text x="210" y="78" fill="#e6edf3" font-size="19" font-weight="600">Easy</text>
-  <text x="690" y="78" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">25 / 207</text>
+  <text x="690" y="78" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">25 / 206</text>
   <rect x="210" y="92" width="480" height="6" rx="3" fill="#2d333b"/>
   <rect x="210" y="92" width="58" height="6" rx="3" fill="#3fb950"/>
   <text x="210" y="144" fill="#e6edf3" font-size="19" font-weight="600">Medium</text>
-  <text x="690" y="144" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">4 / 269</text>
+  <text x="690" y="144" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">4 / 271</text>
   <rect x="210" y="158" width="480" height="6" rx="3" fill="#2d333b"/>
   <rect x="210" y="158" width="7" height="6" rx="3" fill="#d29922"/>
   <text x="210" y="210" fill="#e6edf3" font-size="19" font-weight="600">Hard</text>
-  <text x="690" y="210" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">0 / 193</text>
+  <text x="690" y="210" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">0 / 192</text>
   <rect x="210" y="224" width="480" height="6" rx="3" fill="#2d333b"/>
   <rect x="210" y="224" width="0" height="6" rx="3" fill="#f85149"/>
   <line x1="30" y1="268" x2="690" y2="268" stroke="#2d333b" stroke-width="1"/>
