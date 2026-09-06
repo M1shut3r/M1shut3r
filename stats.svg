@@ -9,7 +9,7 @@
   <rect x="210" y="92" width="480" height="6" rx="3" fill="#2d333b"/>
   <rect x="210" y="92" width="61" height="6" rx="3" fill="#3fb950"/>
   <text x="210" y="144" fill="#e6edf3" font-size="19" font-weight="600">Medium</text>
-  <text x="690" y="144" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">4 / 270</text>
+  <text x="690" y="144" fill="#e6edf3" font-size="17" font-weight="600" text-anchor="end">4 / 272</text>
   <rect x="210" y="158" width="480" height="6" rx="3" fill="#2d333b"/>
   <rect x="210" y="158" width="7" height="6" rx="3" fill="#d29922"/>
   <text x="210" y="210" fill="#e6edf3" font-size="19" font-weight="600">Hard</text>
